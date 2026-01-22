@@ -1,2 +1,11 @@
 Hi my name is sudipta
-Todat we will discuss about basic of git commands.
+Today we will discuss about basic of git commands.
+
+suppose dev a -> this above code 
+
+now dev b want to use it 
+
+
+to solve it dev A will push the code to remote repository so that dev B can pull the code from remote repository.
+
+Dev b can use  it in his local repository.
